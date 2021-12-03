@@ -1,4 +1,4 @@
-# Getting Started with CRACO Zendesk App Boilerplate
+# CO Manager V2
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 This boilerplate use CRACO as base for the zendesk app using ZCLI to serve locally.
